@@ -1,0 +1,62 @@
+[
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged up to 3 years.\nAdvice: Breastfed babies experience less tooth decay and breastfeeding provides the best nutrition for a baby’s overall health.\nSupport mothers to:\n• breastfeed exclusively for around the first 6 months of a baby’s life\n• continue breastfeeding while introducing solids from around the age of 6 months\nStrength of recommendation: Strong",
+        "question_by_gpt": "What are the recommendations for breastfeeding to prevent dental caries in children under 3 years of age?",
+        "answer_by_gpt": "Support mothers to breastfeed exclusively for the first 6 months of a baby’s life and continue breastfeeding while introducing solids from around the age of 6 months.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged up to 3 years.\nAdvice: For parents or carers feeding babies by bottle:\n• only breastmilk, infant formula or cooled boiled water should be given in a bottle\n• babies should be introduced to drinking from a free-flow cup from the age of 6 months\n• feeding from a bottle should be discouraged from the age of 1 year\nStrength of recommendation: Good practice",
+        "question_by_gpt": "What are the recommendations for bottle-feeding to prevent dental caries in children under 3 years of age?",
+        "answer_by_gpt": "Parents or carers should feed babies only with breastmilk, infant formula, or cooled boiled water in a bottle. Introduce babies to drinking from a free-flow cup from the age of 6 months. Discourage bottle feeding from the age of 1 year.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged up to 3 years.\nAdvice: Gradually introduce a wide variety of solid foods (of different textures and flavours) from around the age of 6 months. Sugar should not be added to food or drinks given to babies and toddlers.\nStrength of recommendation: Good practice",
+        "question_by_gpt": "What are the dietary recommendations for introducing solids to children under 3 years of age?",
+        "answer_by_gpt": "Gradually introduce a wide variety of solid foods with different textures and flavours from around the age of 6 months. Do not add sugar to food or drinks given to babies and toddlers.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged up to 3 years.\nAdvice: Parents or carers should brush their children’s teeth:\n• as soon as they erupt\n• twice a day\n• last thing at night (or before bedtime) and on one other occasion\n• with a toothpaste containing at least 1000 ppm fluoride\n• using only a smear of toothpaste\nStrength of recommendation: Strong",
+        "question_by_gpt": "What are the toothbrushing recommendations for children under 3 years of age?",
+        "answer_by_gpt": "Parents or carers should brush their children’s teeth as soon as they erupt, twice a day, last thing at night (or before bedtime) and on one other occasion, with a toothpaste containing at least 1000 ppm fluoride, using only a smear of toothpaste.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged up to 3 years.\nAdvice: Minimise consumption of sugar-containing foods and drinks.\nStrength of recommendation: Strong",
+        "question_by_gpt": "What is the recommendation regarding sugar consumption for children under 3 years of age?",
+        "answer_by_gpt": "Minimise the consumption of sugar-containing foods and drinks.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged up to 3 years.\nAdvice: Use sugar-free versions of medicines if possible.\nStrength of recommendation: Good practice",
+        "question_by_gpt": "What type of medicines should be used for children under 3 years of age to prevent dental caries?",
+        "answer_by_gpt": "Use sugar-free versions of medicines if possible.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged up to 3 years.\nAdvice: Avoid sugar-containing foods and drinks at bedtime when saliva flow is reduced and buffering capacity is lost.\nStrength of recommendation: Good practice",
+        "question_by_gpt": "Why should sugar-containing foods and drinks be avoided at bedtime for children under 3 years of age?",
+        "answer_by_gpt": "Sugar-containing foods and drinks should be avoided at bedtime because saliva flow is reduced and buffering capacity is lost, increasing the risk of dental caries.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged 3 to 6 years.\nAdvice: Teeth should be brushed by a parent or carer. As the child gets older, a parent or carer should assist them to brush their own teeth:\n• on all tooth surfaces\n• at least twice a day\n• last thing at night (or before bedtime) and on at least one other occasion\n• with toothpaste containing at least 1,000 ppm fluoride\n• using a pea-sized amount of the toothpaste\n• spitting out after brushing rather than rinsing, to avoid diluting the fluoride concentration\nStrength of recommendation: Strong",
+        "question_by_gpt": "What are the toothbrushing guidelines for children aged 3 to 6 years?",
+        "answer_by_gpt": "Parents or carers should brush the child's teeth on all tooth surfaces at least twice a day, last thing at night (or before bedtime) and on at least one other occasion, with toothpaste containing at least 1,000 ppm fluoride, using a pea-sized amount of toothpaste, and ensuring the child spits out after brushing rather than rinsing.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged 3 to 6 years.\nAdvice: Minimise amount and frequency of consumption of sugar-containing food and drinks.\nStrength of recommendation: Strong",
+        "question_by_gpt": "What is the recommendation for sugar consumption in children aged 3 to 6 years?",
+        "answer_by_gpt": "Minimise the amount and frequency of consumption of sugar-containing food and drinks.",
+        "source": "Guidance - Chapter 2"
+    },
+    {
+        "context": "Prevention of dental caries in children 0 to 6 years of age.\nAll children aged 3 to 6 years.\nProfessional intervention: Apply fluoride varnish (2.26% NaF) to teeth 2 times a year.\nStrength of recommendation: Strong",
+        "question_by_gpt": "How often should fluoride varnish be applied to the teeth of children aged 3 to 6 years?",
+        "answer_by_gpt": "Fluoride varnish (2.26% NaF) should be applied to the teeth 2 times a year.",
+        "source": "Guidance - Chapter 2"
+    }
+]
